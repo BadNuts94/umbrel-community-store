@@ -1,0 +1,8 @@
+version: "2"
+id: "emby"
+name: "Emby"
+description: "Server multimediale per film, musica e serie TV."
+icon: "assets/icon.png"
+type: "docker"
+port: 8096
+repository: "https://github.com/MediaBrowser/Emby"
