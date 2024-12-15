@@ -3,4 +3,4 @@ apps:
     name: Emby Media Server
     version: 1.0.0
     description: Emby è un media server in grado di organizzare e riprodurre i tuoi contenuti multimediali su diversi dispositivi.
-    icon: emby.png
+    
