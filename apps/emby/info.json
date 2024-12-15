@@ -1,0 +1,10 @@
+{
+  "id": "emby",
+  "name": "Emby Media Server",
+  "version": "1.0.0",
+  "description": "Emby è un media server che organizza e riproduce i tuoi contenuti multimediali.",
+  "type": "app",
+  "icon": "emby.png",
+  "homepage": "https://emby.media",
+  "ports": [8096]
+}
